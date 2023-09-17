@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Flask**
 
-- 💬 Ask me about **MEARN, JavaScript, Web Development**
+- 💬 Ask me about **MERN, JavaScript, Web Development**
 
 - 📫 How to reach me **etdark007@gmail.com**
 
